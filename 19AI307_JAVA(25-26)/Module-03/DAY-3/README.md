@@ -125,7 +125,6 @@ public class Main {
 
 
 
-
 ## OUTPUT:
 <img width="791" height="586" alt="image" src="https://github.com/user-attachments/assets/8e5ac67e-a125-4db4-b804-52e16025fa7e" />
 
