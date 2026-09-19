@@ -59,7 +59,7 @@ RegisterNumber: 212224100045
 ```
 
 ## SOURCE CODE:
-```
+```JAVA
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
